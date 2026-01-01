@@ -1,5 +1,6 @@
 
 # Home Lab
+<img width="1623" height="1005" alt="image" src="https://github.com/user-attachments/assets/ba886b55-731c-4bc3-9334-f4e413c90b98" />
 
 ## Overview
 
